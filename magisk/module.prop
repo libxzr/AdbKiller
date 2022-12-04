@@ -1,0 +1,6 @@
+id=adb_killer
+name=ADB Killer
+version=v1.0
+versionCode=1
+author=LibXZR <i@xzr.moe>
+description=Kill adb daemon to avoid privacy leak.
